@@ -181,7 +181,7 @@ menu:
       url: series
       weight: 4
     - identifier: archives
-      name: 时间轴
+      name: 时间轴1
       url: archive
       weight: 20
     - identifier: tags

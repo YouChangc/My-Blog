@@ -34,6 +34,6 @@ jobs:
         token:  ${{ secrets.PERSONAL_TOKEN }}
         repository-name: YouChangc/YouChangc.github.io
         branch: main # The branch the action should deploy to.
-        folder: public # The folder the action should deploy.
+        folder: ./public # The folder the action should deploy.
         single-commit: true
         commit-message: "Deploy by source"

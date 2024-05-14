@@ -1,6 +1,6 @@
 baseURL: https://youchangblog.cn/
 languageCode: zh-cn # en-us
-title: 小章鱼's Blog
+title: Squidward's Blog
 theme: PaperMod # 主题名字，和themes文件夹下的一致
 defaultContentLanguage: zh-cn
 enableInlineShortcodes: true #允许内联短码
@@ -45,7 +45,7 @@ params:
         url: posts/paper
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   # description: "这是一个纯粹的博客......"
-  author: 小章鱼
+  author: Squidward
   # author: ["Me", "You"] # multiple authors
   defaultTheme: auto  # defaultTheme: light or  dark 
   disableThemeToggle: false
